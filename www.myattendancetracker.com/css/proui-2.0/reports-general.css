@@ -1,0 +1,53 @@
+a.widget {
+    display: block;
+    -webkit-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+    color: #000;
+}
+
+a.widget:hover,
+a.widget:active {
+    text-decoration: none;
+    color: #000;
+}
+
+a.widget.widget-hover-effect1:hover {
+    -webkit-transform: translateY(-3px);
+    transform: translateY(-3px);
+    -webkit-box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
+}
+
+a.widget.widget-hover-effect1:active {
+    -webkit-transform: translateY(-1px);
+    transform: translateY(-1px);
+    -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+a.widget.widget-hover-effect2:hover {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    -webkit-box-shadow: inset 0 -5px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: inset 0 -5px 0 rgba(0, 0, 0, 0.2);
+}
+
+a.widget.widget-hover-effect2:active {
+    -webkit-transform: translateY(2px);
+    transform: translateY(2px);
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.custom-field-btn {
+    margin-right: 5px;
+}
+
+.select-none-button {
+    display: none;
+}
+
+.widget-simple .has-error .help-block { color: #fff; }
+
+
+/* Class Monthly */

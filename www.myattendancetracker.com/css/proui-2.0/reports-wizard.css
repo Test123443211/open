@@ -1,0 +1,14 @@
+ .report-option {
+    border: 1px solid #eee;
+    padding: 25px;
+ }
+
+ .selected_option {
+    border: 1px solid #6ad2eb;
+    background-color: #fff;
+ }
+
+.calendar-container { margin-right: 30px; }
+.input-datepicker { padding: 5px; margins: 5px; background-color: #eee; border: 1px solid #ccc; }
+#start_datepicker { padding: 5px; margins: 5px; background-color: #eee; border: 1px solid #ccc; }
+#end_datepicker { padding: 5px; margins: 5px; background-color: #eee; border: 1px solid #ccc; }

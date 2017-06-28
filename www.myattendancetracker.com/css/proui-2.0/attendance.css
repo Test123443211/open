@@ -1,0 +1,41 @@
+/*.fc-today { background-color: #dcecf1 !important; }*/
+                        /*none repeat scroll 0% 0% #FCF8E3*/
+/*.fc-today { background: none repeat scroll 0% 0% #dcecf1 !important; }*/
+.fc-day-selected { background-color: #eee !important; }
+.fc-day-attendance-saved { background-color: #dff0d8; }
+.fc-day-missed { background-color: #f6b8b1; }
+.fc-widget-content { cursor: pointer; cursor: hand; }
+.fc-day:hover { background-color: #eee; }
+.fc-cell-overlay { background: none; }
+.fc-month-view table:first-of-type { width: 99%; }
+.fc-widget-content table:first-of-type { width: 100%; }
+.fc-widget-header table:first-of-type { width: 100%; }
+
+.no-attendance-warning { margin-right: 10px; }
+
+.attendance-badge-container { vertical-align: bottom; margin-left: 1px; margin-top: 2px; }
+
+.btn-plain {  background-color: #fff; border-color: #ccc; color: #595959; }
+.btn-plain:hover { background-color: #d9d9d9; border-color: #666; color: #595959; }
+
+/*.fc-basic-view table:first-of-type { width: 99%; }*/
+/*.fc table { width: 99%; }*/
+/*.fc-bg table { width: 100%; }*/
+/*.fc-button { position: relative; overflow: hidden; display: inline-block; cursor: pointer; top: -52px; }*/
+
+/* drag-drop styles */
+/*.list-container { border: 1px solid #646464; width: 260px; margin-bottom: 15px; }
+.attendance-column { padding: 20px 10px 100px 10px; text-align: center; }
+.student { width: 90%; height: 50px; margin: auto auto 10px auto; padding-top: 5px; cursor: pointer; cursor: hand; }
+*/
+/*.attendance-title { text-align: center; color: white; font-weight: bold; padding-top: 8px; }
+.present-title {  background-color: #4A8BC2 !important; }
+.absent-title { background-color: #74B749 !important; }
+.tardy-title { background-color: #dd514c !important; }
+.excusedabsent-title { background-color: #de577b !important; }
+.leftearly-title { background-color: #7265ae !important; }
+*/
+/* compact styles */
+/*.student-row { width: 90%; border: 1px solid #404040; padding: 10px; margin-bottom: 10px; text-align: left; font-size: 16px; font-weight: bold; }
+.student-row:hover { background-color: #eee; }
+*/

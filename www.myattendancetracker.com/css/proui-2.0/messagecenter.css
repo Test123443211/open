@@ -1,0 +1,74 @@
+.box-table-a
+{
+    /*font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+    font-size: 12px;*/
+    margin: 5px 15px 15px 5px;
+    width: 550px;
+    text-align: left;
+    border-collapse: collapse;
+}
+.box-table-a th
+{
+    font-size: 13px;
+    font-weight: normal;
+    padding: 2px;
+    background: #414E6E;
+    border-top: 4px solid #F7F7F7;
+    border-bottom: 1px solid #fff;
+    color: white;
+}
+.box-table-a td
+{
+    padding: 3px;
+    /*background: #EFEFEF; */
+    border-bottom: 1px solid #fff;
+    /*color: #4A5875;*/
+    border-top: 1px solid transparent;
+}
+.box-table-a tr:hover td
+{
+    background: #d0dafd;
+    color: #339;
+    cursor: pointer;
+}
+.box-table-a tr.nomessages:hover td
+{
+    background: #ccc;
+    color: #339;
+    cursor: default;
+}
+.box-table-a tr.footer td
+{
+    padding: 3px;
+    background: #414E6E;
+    border-bottom: 1px solid #fff;
+    color: #4A5875;
+    border-top: 1px solid transparent;
+    cursor: default;
+}
+.box-table-a tr.footer:hover td
+{
+    padding: 3px;
+    background: #414E6E;
+    border-bottom: 1px solid #fff;
+    color: #4A5875;
+    border-top: 1px solid transparent;
+    cursor: default;
+}
+
+.box-table-a .unreadtr { font-weight: bold; background: #F7F7F7; }
+.box-table-a .readtr { background: #EFEFEF;; }
+.composelabel { float: left; width: 65px; vertical-align: bottom; }
+.hideme { height: 0px; display: none; }
+
+.highlightedrow { background-color: #ccc; }
+.selectedbackground { background: #8f8f8f; color: #eee; }
+.box-table-a-sub td { border-bottom: none; padding-top: 0px; /*font-size: 11px;*/ }
+
+.pagingarea { float: right; }
+.messagebuttonsspan input { margin-right: 5px; }
+.messagenote { margin: 15px 5px; border: 1px solid #485673; padding: 10px; }
+
+#message_action_select { margin-right: 10px; }
+
+.addrecipient { cursor: hand; cursor: pointer; }

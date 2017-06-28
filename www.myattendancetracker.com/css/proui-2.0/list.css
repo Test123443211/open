@@ -1,0 +1,13 @@
+.student_name {
+    white-space: nowrap;
+    overflow: hidden;
+}
+.student_name { max-height: 19px; overflow: hidden; }
+.class_name { max-height: 19px; overflow: hidden; }
+
+.contact-widget { border: 1px solid #ccc; }
+.contact-widget:hover { border: 1px solid #1bbae1; cursor: pointer; cursor: hand; }
+.class-count { font-size: 14px;  width: 50px; }
+.student-count { font-size: 14px;  width: 50px; }
+
+.task-list:hover { cursor: pointer; }

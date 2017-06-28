@@ -1,0 +1,40 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 28 Jun 2017 14:52:54 at https://www.myattendancetracker.com/css/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.myattendancetracker.com/css/ -O1 "C:\My Web Sites\open" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:53:17	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/chosen-sprite.png (from https://www.myattendancetracker.com/css/plugins.css)
+14:53:23	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/proui-2.0/parent-view.css (from https://www.myattendancetracker.com/css/proui-2.0/)
+14:53:35	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/img/proui-2.0/my-icons/entertainment-2-20.png (from https://www.myattendancetracker.com/css/proui-2.0/class-view.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/img/template/ie8_opacity_dark_15.png (from https://www.myattendancetracker.com/css/proui-2.0/main-pixelcave.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/img/template/ie8_opacity_light_10.png (from https://www.myattendancetracker.com/css/proui-2.0/main-pixelcave.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/img/template/ie8_opacity_light_75.png (from https://www.myattendancetracker.com/css/proui-2.0/main-pixelcave.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/img/template/ie8_opacity_dark_20.png (from https://www.myattendancetracker.com/css/proui-2.0/main-pixelcave.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/img/template/ie8_opacity_dark_40.png (from https://www.myattendancetracker.com/css/proui-2.0/main-pixelcave.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/img/template/ie8_opacity_dark_30.png (from https://www.myattendancetracker.com/css/proui-2.0/main-pixelcave.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/img/template/ie8_opacity_dark_60.png (from https://www.myattendancetracker.com/css/proui-2.0/main-pixelcave.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/proui-2.0/chosen-sprite.png (from https://www.myattendancetracker.com/css/proui-2.0/plugins.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/img/jquery.chosen/chosen-sprite@2x.png (from https://www.myattendancetracker.com/css/proui-2.0/plugins.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/img/jquery.datatables/sort_both.png (from https://www.myattendancetracker.com/css/proui-2.0/plugins.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/img/jquery.datatables/sort_asc.png (from https://www.myattendancetracker.com/css/proui-2.0/plugins.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/img/jquery.datatables/sort_desc.png (from https://www.myattendancetracker.com/css/proui-2.0/plugins.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/img/jquery.datatables/sort_asc_disabled.png (from https://www.myattendancetracker.com/css/proui-2.0/plugins.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/img/jquery.datatables/sort_desc_disabled.png (from https://www.myattendancetracker.com/css/proui-2.0/plugins.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/img/jquery.datatables/sort_both@2x.png (from https://www.myattendancetracker.com/css/proui-2.0/plugins.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/img/jquery.datatables/sort_asc@2x.png (from https://www.myattendancetracker.com/css/proui-2.0/plugins.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/img/jquery.datatables/sort_desc@2x.png (from https://www.myattendancetracker.com/css/proui-2.0/plugins.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/img/jquery.datatables/sort_asc_disabled@2x.png (from https://www.myattendancetracker.com/css/proui-2.0/plugins.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/img/jquery.datatables/sort_desc_disabled@2x.png (from https://www.myattendancetracker.com/css/proui-2.0/plugins.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/img/jquery.select2/select2.png (from https://www.myattendancetracker.com/css/proui-2.0/plugins.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/img/jquery.select2/select2-spinner.gif (from https://www.myattendancetracker.com/css/proui-2.0/plugins.css)
+14:53:41	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/css/img/jquery.select2/select2x2.png (from https://www.myattendancetracker.com/css/proui-2.0/plugins.css)
+14:53:44	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/images/proui-2.0/frontend/bg_pictogram.png (from https://www.myattendancetracker.com/css/proui-2.0/frontend/style.css)
+14:53:44	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/images/proui-2.0/frontend/browser.jpg (from https://www.myattendancetracker.com/css/proui-2.0/frontend/style.css)
+14:53:44	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/images/proui-2.0/frontend/iphone.png (from https://www.myattendancetracker.com/css/proui-2.0/frontend/style.css)
+14:53:44	Error: 	"Not Found" (404) at link https://www.myattendancetracker.com/images/proui-2.0/frontend/bg_fact@2x.png (from https://www.myattendancetracker.com/css/proui-2.0/frontend/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 50 seconds : 208 links scanned, 178 files written (6863669 bytes overall) [7037269 bytes received at 140745 bytes/sec], 429857 bytes transferred using HTTP compression in 57 files, ratio 25%, 23.1 requests per connection
+(29 errors, 0 warnings, 0 messages)

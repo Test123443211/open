@@ -1,0 +1,6 @@
+.ui-front {
+    z-index: 250 !important;
+}
+
+.upgrade-warning { color: #E74C3C; }
+.upgrade-danger { color: #F1AC41; }

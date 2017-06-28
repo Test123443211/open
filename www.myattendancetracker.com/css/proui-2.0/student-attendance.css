@@ -1,0 +1,24 @@
+.class-widget { border: 1px solid #CCC; }
+.class-widget:hover { border: 1px solid #1bbae1; }
+
+.teacher-info {
+	margin-left: 95px; 
+	font-style: italic;
+}
+
+.teacher-attendance-categories {
+	float: right;
+}
+
+.fc-today { background-color: #dcecf1 !important; }
+.fc-day-selected { background-color: #eee !important; }
+.fc-day-attendance-saved { background-color: #dff0d8; }
+.fc-day-missed { background-color: #f6b8b1; }
+.fc-widget-content { cursor: pointer; cursor: hand; }
+.fc-day:hover { background-color: #eee; }
+.fc-cell-overlay { background: none; }
+.fc-month-view table:first-of-type { width: 99%; }
+.fc-widget-content table:first-of-type { width: 100%; }
+.fc-widget-header table:first-of-type { width: 100%; }
+
+.no-attendance-warning { margin-left: 10px; }

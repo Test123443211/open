@@ -1,0 +1,5 @@
+.table > thead:first-child > tr { border-top: 2px solid #DDD; }
+
+.total_due { font-weight: bold; }
+
+#existing_custom_customer_id_chosen { width: 100% !important; }
